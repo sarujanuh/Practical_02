@@ -1,4 +1,4 @@
-# Practical 01 – Introduction to R, RStudio, Git, and Slack  
+# Practical 02 – Introduction to R, RStudio, Git, and Slack  
 **Course:** 7COM1079 – Team Research and Development  
 
 ---
