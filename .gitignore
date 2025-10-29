@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 /data
+./data/*
 .Practical_2.Rproj
